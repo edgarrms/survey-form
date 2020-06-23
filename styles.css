@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    background-image: url(https://media.pitchfork.com/photos/5e3492981054520009102e3b/16:9/w_1856,h_1044,c_limit/J-Balvin.jpg);
+    /* background: linear-gradient(45deg,
+    rgb(255, 238, 2),  rgb(0, 66, 246),
+    rgb(246, 2, 2), rgb(245, 3, 144),
+    rgb(162, 2, 255),  rgb(40, 255, 2), 
+    rgb(0, 0, 0),  rgb(65, 64, 64),  
+    rgb(246, 246, 246));   */
+}
+
+#title {
+    text-align: center;
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#description {
+    text-align: center;
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#albulm-cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name-label {
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q1 {
+   text-align: center;
+}
+
+#email-label {
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q2 {
+    text-align: center;
+}
+
+#number-label {
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q3 {
+    text-align: center;
+}
+
+#song {
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q4 {
+    text-align: center;
+}
+
+#q5 {
+    text-align: center;
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q6 {
+    text-align: center;
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#q7 {
+    text-align: center;
+    text-shadow: 0 0 0.15em #1da9cc;
+}
+
+#button {
+    text-align: center;
+}
