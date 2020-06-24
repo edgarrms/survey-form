@@ -75,3 +75,10 @@ body {
 #button {
     text-align: center;
 }
+
+@media (max-width: 800px) {
+    body {
+        background-image: url(https://pbs.twimg.com/media/ETgj7Y7XsAACygI.jpg);
+        background-size: cover;
+    }
+}
